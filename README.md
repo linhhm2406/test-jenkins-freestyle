@@ -1,2 +1,2 @@
 # test-jenkins-freestyle
-hello
+hello 1
